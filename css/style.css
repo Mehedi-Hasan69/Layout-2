@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(166, 214, 70);
+    height: 100px;
+    text-align: center;
+}
+.nav{
+    width: 30%;
+    height: 400px;
+    background-color: yellow;
+    float: left;
+    text-align: center;
+}
+.article{
+    width: 50%;
+    height: 400px;
+    background-color: violet;
+    float: left;
+    text-align: center;
+}
+.ads{
+    width: 20%;
+    height: 400px;
+    background-color: teal;
+    float: right;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(255, 9, 161);
+    color: rgb(7, 7, 8);
+    text-align: center;
+}
